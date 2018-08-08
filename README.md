@@ -1,8 +1,4 @@
-# zoom_drag_drop
+# Zoom with drag and drop - Flutter
 
-A new Flutter project.
+Check more in https://medium.com/@barbswatanabe/zoom-draggable-your-images-with-flutter-a32ac166dadd
 
-## Getting Started
-
-For help getting started with Flutter, view our online
-[documentation](https://flutter.io/).
